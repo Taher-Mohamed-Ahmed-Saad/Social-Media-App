@@ -1,2 +1,2 @@
-# Socail-Media-App
+# Social-Media-App
  
